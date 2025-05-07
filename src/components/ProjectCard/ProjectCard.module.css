@@ -1,0 +1,12 @@
+    .cardWrapper {
+        transition: transform 0.3s ease;
+    }
+    
+    .cardWrapper:hover {
+        transform: scale(1.03);
+    }
+    
+    .card {
+        height: 100%;
+    }
+    
