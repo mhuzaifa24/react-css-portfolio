@@ -3,3 +3,14 @@
   padding: 1rem;
   text-align: center;
 }
+nav {
+  margin-top: 0.5rem;
+}
+nav a {
+  color: #e0e0e0;
+  margin: 0 1rem;
+  text-decoration: none;
+}
+nav a:hover {
+  color: #ffcb9a;
+}
