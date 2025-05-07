@@ -15,3 +15,4 @@ function Sidenav() {
 }
 
 export default Sidenav;
+<button className={styles.toggle}>Toggle Sidebar</button>
