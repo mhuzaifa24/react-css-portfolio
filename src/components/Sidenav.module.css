@@ -1,0 +1,32 @@
+.sidenav {
+  width: 200px;
+  background: #2c3531;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+ul {
+  list-style: none;
+  padding: 1rem;
+}
+li {
+  margin: 1rem 0;
+}
+a {
+  color: #d1e8e2;
+  text-decoration: none;
+}
+a:hover {
+  color: #ffcb9a;
+}
+.toggle {
+  background: #116466;
+  color: white;
+  border: none;
+  padding: 0.5rem;
+  cursor: pointer;
+}
+.toggle:hover {
+  background: #ffcb9a;
+}
