@@ -10,3 +10,6 @@ function Footer() {
 }
 
 export default Footer;
+<div className={styles.social}>
+  <a href="https://github.com/mhuzaifa24">GitHub</a> | <a href="https://linkedin.com">LinkedIn</a> | <a href="https://twitter.com">Twitter</a>
+</div>
