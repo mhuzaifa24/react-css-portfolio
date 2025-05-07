@@ -20,3 +20,13 @@ a {
 a:hover {
   color: #ffcb9a;
 }
+.toggle {
+  background: #116466;
+  color: white;
+  border: none;
+  padding: 0.5rem;
+  cursor: pointer;
+}
+.toggle:hover {
+  background: #ffcb9a;
+}
