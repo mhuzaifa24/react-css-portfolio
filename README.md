@@ -1,7 +1,32 @@
+
+I developed my Portfolio using React.
+For the version control, i maintained a git and push commit changes to different branches and then merging into main by
+creating pull requests...(the branches are still there as i didnt deleted it)
+
+Following are screenshots of my Portfolio which might miss animations:
+
+![image](https://github.com/user-attachments/assets/d157f863-f203-420f-ae42-fb75d14593e2)
+![image](https://github.com/user-attachments/assets/fada5bee-f9d1-4e4d-8c47-4fd760c57fff)
+![image](https://github.com/user-attachments/assets/58b88fc0-96cc-4ebd-8c03-a3648b887274)
+![image](https://github.com/user-attachments/assets/ef0d0296-88f0-4bc0-b52d-9127b3091866)
+![image](https://github.com/user-attachments/assets/76a89f01-1ba6-47bf-aaef-25d937995637)
+![image](https://github.com/user-attachments/assets/b6c8cc05-746f-4309-a757-47a127407849)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Following is the Template Readme File of React App!
-
-
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
