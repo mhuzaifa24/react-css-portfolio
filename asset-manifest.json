@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mhuzaifa24/react-css-portfolio/static/css/main.c8115366.css",
+    "main.js": "/mhuzaifa24/react-css-portfolio/static/js/main.75f99789.js",
+    "static/media/My_Pic.jpg": "/mhuzaifa24/react-css-portfolio/static/media/My_Pic.acfa4c2b4b923cc3e848.jpg",
+    "static/media/ProfilePic.jpg": "/mhuzaifa24/react-css-portfolio/static/media/ProfilePic.5d1c6e98170bd5223344.jpg",
+    "index.html": "/mhuzaifa24/react-css-portfolio/index.html",
+    "main.c8115366.css.map": "/mhuzaifa24/react-css-portfolio/static/css/main.c8115366.css.map",
+    "main.75f99789.js.map": "/mhuzaifa24/react-css-portfolio/static/js/main.75f99789.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8115366.css",
+    "static/js/main.75f99789.js"
+  ]
+}
