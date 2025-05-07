@@ -6,3 +6,14 @@
   bottom: 0;
   width: 100%;
 }
+.social {
+  margin-top: 0.5rem;
+}
+.social a {
+  color: #e0e0e0;
+  margin: 0 1rem;
+  text-decoration: none;
+}
+.social a:hover {
+  color: #ffcb9a;
+}
