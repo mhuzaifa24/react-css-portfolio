@@ -6,3 +6,17 @@
   top: 0;
   left: 0;
 }
+ul {
+  list-style: none;
+  padding: 1rem;
+}
+li {
+  margin: 1rem 0;
+}
+a {
+  color: #d1e8e2;
+  text-decoration: none;
+}
+a:hover {
+  color: #ffcb9a;
+}
