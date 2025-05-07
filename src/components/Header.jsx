@@ -10,3 +10,6 @@ function Header() {
 }
 
 export default Header;
+  <nav>
+    <a href="/">Home</a> | <a href="/education">Education</a> | <a href="/projects">Projects</a> | <a href="/contact">Contact</a>
+  </nav>
